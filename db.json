@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "apple",
+      "price": "100",
+      "oprice": "150",
+      "ct": "fruit",
+      "dis": "red color"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "price": "",
+      "oprice": "",
+      "ct": "",
+      "dis": ""
+    },
+    {
+      "id": 3,
+      "name": "",
+      "price": "",
+      "oprice": "",
+      "ct": "",
+      "dis": ""
+    },
+    {
+      "id": 4,
+      "name": "",
+      "price": "",
+      "oprice": "",
+      "ct": "",
+      "dis": ""
+    },
+    {
+      "id": 5,
+      "name": "prabhu Raja",
+      "price": "AADF",
+      "oprice": "Adf",
+      "ct": "AEFADF",
+      "dis": "adf"
+    },
+    {
+      "id": 6,
+      "name": "prabhu Raja",
+      "price": "AADF",
+      "oprice": "Adf",
+      "ct": "AEFADF",
+      "dis": "adf"
+    },
+    {
+      "id": 7,
+      "name": "pineApple",
+      "price": "200",
+      "oprice": "100",
+      "ct": "pine",
+      "dis": "20%"
+    },
+    {
+      "id": 8,
+      "name": "basket",
+      "price": "200",
+      "oprice": "250",
+      "ct": "plastic",
+      "dis": "20%"
+    },
+    {
+      "id": 9,
+      "name": "yup",
+      "price": "no",
+      "oprice": "americ",
+      "ct": "ball",
+      "dis": "we"
+    }
+  ]
+}
